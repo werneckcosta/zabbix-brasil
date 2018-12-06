@@ -1,0 +1,1 @@
+http://www.circitor.fr/Mibs/Files/Printer-MIB.mib
