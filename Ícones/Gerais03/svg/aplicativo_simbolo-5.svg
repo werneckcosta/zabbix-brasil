@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="356.25409" height="392.02847" id="svg2" version="1.1" inkscape:version="0.47pre4 r22446" sodipodi:docname="box.svg">
+  <defs id="defs4">
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective60"/>
+    <linearGradient inkscape:collect="always" id="linearGradient5691">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5693"/>
+      <stop style="stop-color:#000000;stop-opacity:0;" offset="1" id="stop5695"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" id="linearGradient5430">
+      <stop style="stop-color:#6c5353;stop-opacity:1;" offset="0" id="stop5432"/>
+      <stop style="stop-color:#6c5353;stop-opacity:0;" offset="1" id="stop5434"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" id="linearGradient5422">
+      <stop style="stop-color:#4873bd;stop-opacity:1;" offset="0" id="stop5424"/>
+      <stop style="stop-color:#4873bd;stop-opacity:0;" offset="1" id="stop5426"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5225">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5227"/>
+      <stop style="stop-color:#000000;stop-opacity:0;" offset="1" id="stop5229"/>
+    </linearGradient>
+    <filter inkscape:collect="always" id="filter5243" x="-0.027294023" width="1.054588" y="-0.10965493" height="1.2193099" color-interpolation-filters="sRGB">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="2.6307451" id="feGaussianBlur5245"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5225" id="linearGradient5249" x1="401.17523" y1="461.92804" x2="568.80176" y2="429.60315" gradientUnits="userSpaceOnUse"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5422" id="linearGradient5428" x1="492.95444" y1="223.02693" x2="416.68793" y2="222.01678" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.93584033,0,0,0.93584033,92.573343,8.6706374)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5430" id="linearGradient5436" x1="495.0054" y1="434.11121" x2="408.60669" y2="440.17212" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.93584033,0,0,0.93584033,92.573343,8.6706374)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5691" id="linearGradient5697" x1="558.43274" y1="442.71936" x2="425.85297" y2="472.00507" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.93584033,0,0,0.93584033,88.829982,8.6706374)"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.7" inkscape:cx="194.18878" inkscape:cy="289.81666" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1366" inkscape:window-height="692" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1"/>
+  <g inkscape:label="Camada 1" inkscape:groupmode="layer" id="layer1" transform="translate(-250.2553,-100.01854)">
+    <path style="fill:#6aa7d0;fill-opacity:1;stroke:none" d="m 275.96959,142.70626 1.00269,144.63725 208.86313,-0.94533 69.00992,0 -0.94534,-166.38011 -67.57349,-5.71382 z" id="path3007" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82.674225" inkscape:export-ydpi="82.674225"/>
+    <path style="opacity:0.72463092;fill:url(#linearGradient5249);fill-opacity:1;stroke:none;filter:url(#filter5243)" d="M 500.02551,483.6463 577.80726,454.35188 390.92904,426.0676 346.48232,452.33157 z" id="path3789" inkscape:connector-curvature="0" transform="matrix(1.1100687,0,0,0.87871234,-39.047982,46.57325)" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82.674225" inkscape:export-ydpi="82.674225"/>
+    <path style="fill:#e3dbdb;stroke:none" d="m 276.97228,286.39818 2.77868,156.92668 207.97512,37.81366 69.95528,-18.90683 -2.83602,-174.88818 -69.00994,-0.47266 z" id="path3009" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82.674225" inkscape:export-ydpi="82.674225"/>
+    <path style="fill:#ac9393;stroke:none" d="m 403.88611,465.86535 83.00686,-81.45722 68.8977,-11.98388 1.89069,88.8621 -69.90285,19.89394 z" id="path3011" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82.674225" inkscape:export-ydpi="82.674225"/>
+    <path style="fill:url(#linearGradient5428);fill-opacity:1;stroke:none" d="m 486.78075,114.34602 -0.94534,172.05216 69.48259,0 -0.94533,-166.85278 z" id="path3013" inkscape:connector-curvature="0" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82.674225" inkscape:export-ydpi="82.674225"/>
+    <path style="fill:#b3b3b3;fill-opacity:1;stroke:none" d="m 485.86407,286.53661 0.91668,98.56865 69.95527,-13.62635 -1.44668,-85.24785 z" id="path3015" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82.674225" inkscape:export-ydpi="82.674225"/>
+    <path style="fill:url(#linearGradient5436);fill-opacity:1;stroke:none" d="m 486.80942,384.60146 1.36313,96.46661 69.98148,-18.83638 -1.44668,-90.75278 z" id="path3017" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82.674225" inkscape:export-ydpi="82.674225"/>
+    <path style="fill:#ffffff;stroke:#000000;stroke-width:0.93584031px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 492.92546,427.25406 0,43.4857 59.08385,-16.54347 -0.47267,-39.23168 z" id="path5442" inkscape:connector-curvature="0" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.74631715px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 494.22531,428.08247 1.60092,-0.35574 0.16147,41.02923 -1.4628,0.47432 z" id="path5506" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.62346298px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 497.36182,427.43068 0.76449,-0.11754 0.23097,40.99959 -0.7862,0.23604 z" id="path5506-1" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.67518276px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 500.05346,426.96407 2.10102,-0.52705 0.13323,40.69852 -1.98705,0.64318 z" id="path5506-4" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.42630297px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 503.33261,426.28064 0.88862,-0.29689 -0.007,40.73487 -0.78454,0.23754 z" id="path5506-8" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4263055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 505.6879,425.72443 0.82954,-0.29691 0.0526,40.55724 -0.84362,0.2969 z" id="path5506-8-5" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.42748955px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 507.85373,425.19782 0.38641,-0.14928 0.17076,40.48427 -0.19371,0.11942 z" id="path5506-8-2" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.67273825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 509.85498,424.83979 2.10102,-0.43454 0.13324,40.02 -1.98705,0.5794 z" id="path5506-4-5" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.73390573px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 513.63304,424.13634 1.60092,-0.344 0.16147,39.67592 -1.4628,0.45868 z" id="path5506-0" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.61295766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 516.60242,423.38769 0.7645,-0.1136 0.23096,39.62955 -0.7862,0.22815 z" id="path5506-1-6" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.66421181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 518.87629,423.04895 2.10102,-0.51005 0.13323,39.38665 -1.98705,0.62244 z" id="path5506-4-3" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41951007px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 522.40611,422.2461 0.88862,-0.28752 -0.007,39.44704 -0.78455,0.23002 z" id="path5506-8-3" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4194634px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 524.7614,421.82778 0.82953,-0.28745 0.0526,39.26581 -0.84362,0.28745 z" id="path5506-8-5-2" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.42029309px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 526.92722,421.2512 0.38641,-0.14427 0.17076,39.1327 -0.19371,0.11543 z" id="path5506-8-2-4" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.66131532px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 528.76136,420.84347 2.10102,-0.4199 0.13324,38.67248 -1.98705,0.55989 z" id="path5506-4-5-9" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.72103906px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 532.63488,420.11921 1.60093,-0.33205 0.16147,38.29692 -1.46281,0.44274 z" id="path5506-0-8" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.60220146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 535.77139,419.37297 0.7645,-0.10967 0.23096,38.25093 -0.7862,0.2202 z" id="path5506-1-6-8" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.65291011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 538.04526,418.96296 2.10101,-0.49286 0.13324,38.05773 -1.98705,0.60143 z" id="path5506-4-3-3" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41296399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 541.49152,418.13423 0.88861,-0.27861 -0.007,38.22558 -0.78454,0.2229 z" id="path5506-8-3-8" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41309005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 543.93036,417.54328 0.82954,-0.27878 0.0526,38.08165 -0.84362,0.27879 z" id="path5506-8-5-2-0" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41425362px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 545.76196,417.14146 0.38641,-0.14017 0.17076,38.01613 -0.19371,0.11215 z" id="path5506-8-2-4-6" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.65037513px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 547.83007,416.81026 2.10101,-0.40614 0.13324,37.40354 -1.98705,0.54151 z" id="path5506-4-5-9-6" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+    <path style="fill:url(#linearGradient5697);fill-opacity:1;stroke:none" d="m 492.44845,426.77237 0,43.4857 59.08385,-16.54346 -0.47268,-39.23168 z" id="path5442-1" inkscape:connector-curvature="0" inkscape:export-filename="/home/relsi/Área de Trabalho/caixa1.png" inkscape:export-xdpi="82" inkscape:export-ydpi="82"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>software box 1</dc:title>
+        <dc:date>2010-06-17T03:15:14</dc:date>
+        <dc:description>Software Box</dc:description>
+        <dc:source>http://openclipart.org/detail/67357/software-box-1-by-relsi</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>relsi</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>box</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>software</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

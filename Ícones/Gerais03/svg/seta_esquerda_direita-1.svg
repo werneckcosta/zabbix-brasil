@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="401.04877" height="187.39253" id="svg2679" sodipodi:version="0.32" inkscape:version="0.45" sodipodi:modified="true" version="1.0">
+  <defs id="defs2681">
+    <linearGradient id="linearGradient1694">
+      <stop style="stop-color:#ffffff;stop-opacity:0.0000000;" offset="0.0000000" id="stop1695"/>
+      <stop style="stop-color:#ffffff;stop-opacity:1.0000000;" offset="1.0000000" id="stop1696"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient1694" id="linearGradient2646" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.9487631,0,0,0.4334606,-8.1130988,57.558783)" x1="244.8598" y1="827.01349" x2="244.8598" y2="646.06177"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient1683" id="linearGradient2642" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,0.9462037,0.4346328,0,-8.1130988,57.558783)" x1="-92.98716" y1="-477.69666" x2="315.00735" y2="-477.69669"/>
+    <linearGradient id="linearGradient1683">
+      <stop style="stop-color:#68db0c;stop-opacity:1.0000000;" offset="0.0000000" id="stop1684"/>
+      <stop style="stop-color:#387606;stop-opacity:1.0000000;" offset="1.0000000" id="stop1685"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient1683" id="linearGradient2640" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,0.9462037,0.4346328,0,-8.1130988,57.558783)" x1="303.90472" y1="-492.41382" x2="-93.992599" y2="-492.41382"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="350" inkscape:cy="177.14286" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-width="797" inkscape:window-height="573" inkscape:window-x="198" inkscape:window-y="261"/>
+  <g inkscape:label="Ebene 1" inkscape:groupmode="layer" id="layer1" transform="translate(-149.47561,-438.66592)">
+    <g id="g2649" transform="translate(585.0625,111.53406)">
+      <path id="path2603" d="M -320.84375,329.9375 L -432.78125,420.03125 L -320.84375,511.71875 L -320.84375,466.28125 L -307.9375,466.28125 L -303,466.28125 L -149.28125,466.28125 L -149.28125,511.71875 L -37.34375,420.03125 L -149.28125,329.9375 L -149.28125,375.375 L -303,375.375 L -307.9375,375.375 L -320.84375,375.375 L -320.84375,329.9375 z " style="fill:url(#linearGradient2640);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2642);stroke-width:5.6112771;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"/>
+      <path id="path2605" d="M -327.75,345.1875 L -421.71875,420.40625 L -327.75,436.84375 L -307.9375,436.84375 L -307.9375,436.96875 L -142.4375,436.96875 L -48.5,420.5 L -142.4375,345.3125 L -142.4375,383.25 L -303.0625,383.25 L -303.0625,383.125 L -327.75,383.125 L -327.75,345.1875 z " style="fill:url(#linearGradient2646);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Arrow left-right</dc:title>
+        <dc:date>2007-03-27T03:19:49</dc:date>
+        <dc:description>Based on arrow-right-yellow_benji_01.svg from the old openclipart packages</dc:description>
+        <dc:source>http://openclipart.org/detail/3677/arrow-left-right-by-torfnase</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>torfnase</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>both</rdf:li>
+            <rdf:li>both</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>direction</rdf:li>
+            <rdf:li>direction</rdf:li>
+            <rdf:li>green</rdf:li>
+            <rdf:li>green</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>left</rdf:li>
+            <rdf:li>left</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>right</rdf:li>
+            <rdf:li>right</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

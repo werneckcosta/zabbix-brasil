@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="8.26772in"	height="11.6929in" viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000099;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st2 {fill:#fafafa;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st3 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+	<g>
+		<title>SmartPhone</title>
+		<g id="shape2-1" transform="translate(161.575,-137.48)">
+			<rect x="0" y="279.213" width="308.976" height="562.677" rx="45.3543" ry="45.3543" class="st1"/>
+		</g>
+		<g id="shape3-3" transform="translate(194.646,-206.929)">
+			<rect x="0" y="387.874" width="242.835" height="454.016" rx="8.50394" ry="8.50394" class="st2"/>
+		</g>
+		<g id="shape1-5" transform="translate(281.575,-676.063)">
+			<rect x="0" y="833.858" width="68.9764" height="8.0315" rx="4.01575" ry="4.01575" class="st2"/>
+		</g>
+		<g id="shape4-7" transform="translate(300.472,-158.74)">
+			<ellipse cx="15.5906" cy="826.299" rx="15.5906" ry="15.5906" class="st3"/>
+		</g>
+	</g>
+</svg>

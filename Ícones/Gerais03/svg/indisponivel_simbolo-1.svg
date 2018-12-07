@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg9142"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="desligado_simbolo.svg">
+  <defs
+     id="defs9144" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="24.918728"
+     inkscape:cy="-0.26717321"
+     inkscape:document-units="px"
+     inkscape:current-layer="g18433-6"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-243.42857,-341.50504)">
+    <g
+       id="g18433-6"
+       transform="translate(-420.57143,-533.07574)">
+      <path
+         id="path18368-8"
+         style="fill:#fffffb;fill-opacity:1;stroke:#eb2323;stroke-width:2.18260074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 667.80406,878.28995 8.32047,8.68878 m 1.89131,-4.34439 c 0,3.49011 -2.70937,6.31942 -6.05154,6.31942 -3.3422,0 -6.05157,-2.82931 -6.05157,-6.31942 0,-3.49013 2.70937,-6.31941 6.05157,-6.31941 3.34217,0 6.05154,2.82928 6.05154,6.31941 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Windows Mute Icon</dc:title>
+        <dc:date>2012-03-23T11:11:29</dc:date>
+        <dc:description />
+        <dc:source>http://openclipart.org/detail/169033/windows-mute-icon-by-mightyman</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mightyman</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>mute</rdf:li>
+            <rdf:li>sound</rdf:li>
+            <rdf:li>sound off</rdf:li>
+            <rdf:li>sound_off</rdf:li>
+            <rdf:li>soundoff</rdf:li>
+            <rdf:li>volume icon</rdf:li>
+            <rdf:li>windows</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

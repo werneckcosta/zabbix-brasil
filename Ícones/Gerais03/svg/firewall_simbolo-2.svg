@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="224.09695" height="256.04416" id="svg3054" version="1.1" inkscape:version="0.47 r22583" sodipodi:docname="Firewall.svg">
+  <defs id="defs3056">
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective3062"/>
+    <inkscape:perspective id="perspective2976" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.033852112" inkscape:cx="-4895.0026" inkscape:cy="68.919517" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1440" inkscape:window-height="879" inkscape:window-x="1440" inkscape:window-y="0" inkscape:window-maximized="1"/>
+  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="translate(-470.78658,-255.74667)">
+    <g transform="matrix(0.03672094,0,0,0.03672094,397.4072,182.36729)" style="visibility:visible" visibility="visible" id="page1" class="Slide">
+      <g class="Group" id="g10">
+        <g class="Drawing" id="g12">
+          <g id="g14">
+            <g style="fill:#c5000b;stroke:none" id="g16">
+              <path d="m 2000,8099 0,-5350 749,-749 4740,0 0,5349 -750,750 -4739,0 z m 0,-6099 0,0 z m 5489,6099 0,0 z" id="path18"/>
+            </g>
+            <g style="fill:none;stroke:#ffffff" id="g20">
+              <path style="fill:none" d="m 2000,8099 0,-5350 749,-749 4740,0 0,5349 -750,750 -4739,0" id="path22"/>
+              <path style="fill:none" d="m 2000,2000 0,0" id="path24"/>
+              <path style="fill:none" d="m 7489,8099 0,0" id="path26"/>
+            </g>
+            <g style="fill:#d12a33;stroke:none" id="g28">
+              <path d="m 2000,2749 749,-749 4740,0 -750,749 -4739,0 z m 0,-749 0,0 z m 5489,6099 0,0 z" id="path30"/>
+            </g>
+            <g style="fill:none;stroke:#ffffff" id="g32">
+              <path style="fill:none" d="m 2000,2749 749,-749 4740,0 -750,749 -4739,0" id="path34"/>
+              <path style="fill:none" d="m 2000,2000 0,0" id="path36"/>
+              <path style="fill:none" d="m 7489,8099 0,0" id="path38"/>
+            </g>
+            <g style="fill:#9e0009;stroke:none" id="g40">
+              <path d="m 6739,8099 0,-5350 750,-749 0,5349 -750,750 z m -4739,-6099 0,0 z m 5489,6099 0,0 z" id="path42"/>
+            </g>
+            <g style="fill:none;stroke:#ffffff" id="g44">
+              <path style="fill:none" d="m 6739,8099 0,-5350 750,-749 0,5349 -750,750" id="path46"/>
+              <path style="fill:none" d="m 2000,2000 0,0" id="path48"/>
+              <path style="fill:none" d="m 7489,8099 0,0" id="path50"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g52">
+              <rect x="2000" y="2000" width="5489" height="6099" id="rect54"/>
+            </g>
+          </g>
+        </g>
+        <g class="Graphic" id="g56">
+          <g id="g58">
+            <g style="fill:#e73900;stroke:none" id="g60">
+              <path d="M 4723,8309 C 3694,6729 4936,6588 4620,4425 c 777,1020 994,2272 1320,2642 225,291 336,642 306,1002 -3,286 358,632 259,898 -524,-420 -1426,-146 -1782,-658 z" id="path62"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g64">
+              <path d="M 4723,8309 C 3694,6729 4936,6588 4620,4425 c 777,1020 994,2272 1320,2642 225,291 336,642 306,1002 -3,286 358,632 259,898 -524,-420 -1426,-146 -1782,-658 z" id="path66"/>
+            </g>
+            <g style="fill:#e73900;stroke:none" id="g68">
+              <path d="m 6279,8771 c 6,-303 -360,-434 -507,-671 -244,-180 -321,-461 -327,-738 -20,-442 375,-3081 949,-3789 -220,1088 327,2537 664,3017 229,372 315,801 232,1223 -40,337 -319,539 -470,841 -151,182 -356,199 -541,117 z" id="path70"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g72">
+              <path d="m 6279,8771 c 6,-303 -360,-434 -507,-671 -244,-180 -321,-461 -327,-738 -20,-442 375,-3081 949,-3789 -220,1088 327,2537 664,3017 229,372 315,801 232,1223 -40,337 -319,539 -470,841 -151,182 -356,199 -541,117 z" id="path74"/>
+            </g>
+            <g style="fill:#e73900;stroke:none" id="g76">
+              <path d="m 6487,8919 c 88,-263 -85,-680 -140,-924 -148,-219 -133,-485 -62,-727 105,-392 122,-2241 1816,-3109 -1314,1290 -441,2338 -299,2842 83,384 40,784 -147,1129 -259,475 -949,738 -1168,789 z" id="path78"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g80">
+              <path d="m 6487,8919 c 88,-263 -85,-680 -140,-924 -148,-219 -133,-485 -62,-727 105,-392 122,-2241 1816,-3109 -1314,1290 -441,2338 -299,2842 83,384 40,784 -147,1129 -259,475 -949,738 -1168,789 z" id="path82"/>
+            </g>
+            <g style="fill:#e78c00;stroke:none" id="g84">
+              <path d="m 6209,8765 c 4,-248 -273,-355 -384,-547 -185,-148 -243,-377 -247,-603 -15,-362 353,-2272 648,-3094 -201,1864 316,2072 572,2463 173,304 238,654 175,999 -30,275 -162,525 -276,772 -114,149 -349,77 -488,10 z" id="path86"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g88">
+              <path d="m 6209,8765 c 4,-248 -273,-355 -384,-547 -185,-148 -243,-377 -247,-603 -15,-362 353,-2272 648,-3094 -201,1864 316,2072 572,2463 173,304 238,654 175,999 -30,275 -162,525 -276,772 -114,149 -349,77 -488,10 z" id="path90"/>
+            </g>
+            <g style="fill:#e78c00;stroke:none" id="g92">
+              <path d="m 5147,8411 c -1057,-1086 95,-1162 -199,-2652 349,702 637,1230 764,1729 187,176 835,1252 797,1447 -409,-233 -1058,-212 -1362,-524 z" id="path94"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g96">
+              <path d="m 5147,8411 c -1057,-1086 95,-1162 -199,-2652 349,702 637,1230 764,1729 187,176 835,1252 797,1447 -409,-233 -1058,-212 -1362,-524 z" id="path98"/>
+            </g>
+            <g style="fill:#e7e100;stroke:none" id="g100">
+              <path d="m 5358,8345 c -632,-600 -160,-953 -166,-1703 175,657 728,819 721,1213 91,118 569,959 529,1067 -212,-171 -845,-349 -1084,-577 z" id="path102"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g104">
+              <path d="m 5358,8345 c -632,-600 -160,-953 -166,-1703 175,657 728,819 721,1213 91,118 569,959 529,1067 -212,-171 -845,-349 -1084,-577 z" id="path106"/>
+            </g>
+            <g style="fill:#e78c00;stroke:none" id="g108">
+              <path d="m 6374,8264 c -111,-164 -100,-364 -47,-546 79,-294 425,-1927 919,-2282 -357,671 113,1704 219,2083 63,287 80,628 -109,846 -287,330 -649,522 -852,568 -129,90 -89,-486 -130,-669 z" id="path110"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g112">
+              <path d="m 6374,8264 c -111,-164 -100,-364 -47,-546 79,-294 425,-1927 919,-2282 -357,671 113,1704 219,2083 63,287 80,628 -109,846 -287,330 -649,522 -852,568 -129,90 -89,-486 -130,-669 z" id="path114"/>
+            </g>
+            <g style="fill:#e7e100;stroke:none" id="g116">
+              <path d="m 6196,8783 c 8,-151 -159,-224 -222,-345 -109,-95 -139,-237 -136,-375 0,-222 -8,-1603 273,-1946 -124,539 343,1344 490,1590 98,191 129,407 82,616 -25,168 -112,318 -188,466 -74,88 -216,39 -299,-6 z" id="path118"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g120">
+              <path d="m 6196,8783 c 8,-151 -159,-224 -222,-345 -109,-95 -139,-237 -136,-375 0,-222 -8,-1603 273,-1946 -124,539 343,1344 490,1590 98,191 129,407 82,616 -25,168 -112,318 -188,466 -74,88 -216,39 -299,-6 z" id="path122"/>
+            </g>
+            <g style="fill:#e7e100;stroke:none" id="g124">
+              <path d="m 6329,8802 c 72,-105 -17,-230 -11,-345 -37,-115 2,-231 64,-329 96,-160 264,-1349 615,-1475 -323,336 238,1233 238,1474 -12,180 -231,423 -355,554 -91,110 -271,216 -390,290 -91,-55 -120,-100 -161,-169 z" id="path126"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g128">
+              <path d="m 6329,8802 c 72,-105 -17,-230 -11,-345 -37,-115 2,-231 64,-329 96,-160 264,-1349 615,-1475 -323,336 238,1233 238,1474 -12,180 -231,423 -355,554 -91,110 -271,216 -390,290 -91,-55 -120,-100 -161,-169 z" id="path130"/>
+            </g>
+            <g style="fill:#ffff9e;stroke:none" id="g132">
+              <path d="m 6208,8682 c -223,-352 -141,-745 -46,-1173 44,291 224,643 326,759 70,91 104,200 95,313 -1,89 -46,197 -77,280 -164,-131 -187,-20 -298,-179 z" id="path134"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g136">
+              <path d="m 6208,8682 c -223,-352 -141,-745 -46,-1173 44,291 224,643 326,759 70,91 104,200 95,313 -1,89 -46,197 -77,280 -164,-131 -187,-20 -298,-179 z" id="path138"/>
+            </g>
+            <g style="fill:#ffff9e;stroke:none" id="g140">
+              <path d="m 6459,8507 c 173,-379 2,-677 398,-975 -118,276 152,711 123,862 -50,254 -392,443 -478,462 21,-208 -116,-169 -43,-349 z" id="path142"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g144">
+              <path d="m 6459,8507 c 173,-379 2,-677 398,-975 -118,276 152,711 123,862 -50,254 -392,443 -478,462 21,-208 -116,-169 -43,-349 z" id="path146"/>
+            </g>
+            <g style="fill:#ffff9e;stroke:none" id="g148">
+              <path d="m 5224,7266 c 930,1177 909,583 1278,1590 C 4744,8073 5533,8144 5224,7266 z" id="path150"/>
+            </g>
+            <g style="fill:none;stroke:none" id="g152">
+              <path d="m 5224,7266 c 930,1177 909,583 1278,1590 C 4744,8073 5533,8144 5224,7266 z" id="path154"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Firewall</dc:title>
+        <dc:date>2011-08-12T20:34:29</dc:date>
+        <dc:description>Clipart for computer and network diagrams</dc:description>
+        <dc:source>http://openclipart.org/detail/155089/firewall-by-saisyukusanagi</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>saisyukusanagi</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Computer</rdf:li>
+            <rdf:li>Firewall</rdf:li>
+            <rdf:li>LAN</rdf:li>
+            <rdf:li>Network</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

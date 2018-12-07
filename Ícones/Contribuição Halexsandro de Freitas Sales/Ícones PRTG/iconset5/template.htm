@@ -1,0 +1,19 @@
+﻿<div class="map_object" id="<@itemid>" objectid="<@objectid>" subid="<@subid>" style="min-width:20px;min-height:20px;<#mapobject type="coordinates" subid="<@subid>">; text-align: center;">
+    <#mapobject type="htmlbefore" subid="<@subid>">
+    <img src="<@iconpath>" style="max-width:64%;max-height:64%">
+    <div style="width: 100%" class="graphicalmapicon">
+      <span class="label <#sensor type="colorclassofstate" prefix="map_iconcolor_" id="<@objectid>">">
+        <b><#objectproperty name="Name" id="<@objectid>" show="link"></b><br>
+        <#objectstatus skiptagfortype="sensor" name="downsens" id="<@objectid>">
+        <#objectstatus skiptagfortype="sensor" name="partialdownsens" id="<@objectid>">
+        <#objectstatus skiptagfortype="sensor" name="downacksens" id="<@objectid>">
+        <#objectstatus skiptagfortype="sensor" name="warnsens" id="<@objectid>">
+        <#objectstatus skiptagfortype="sensor" name="upsens" id="<@objectid>">
+        <#objectstatus skiptagfortype="sensor" name="pausedsens" id="<@objectid>">
+        <#objectstatus skiptagfortype="sensor" name="unusualsens" id="<@objectid>">
+        <#objectstatus skiptagfortype="sensor" name="undefinedsens" id="<@objectid>">
+        <#objectstatus skiptagfortype="group,device,probenode" name="minigraph" id="<@objectid>">
+      </span>
+    </div>
+    <#mapobject type="htmlafter" subid="<@subid>">
+</div>

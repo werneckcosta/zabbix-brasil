@@ -1,0 +1,8 @@
+A maior parte das imagens foram obtidas nestes sites:
+http://openclipart.org/
+http://commons.wikimedia.org/wiki/Category:Images
+http://www.opensecurityarchitecture.org/cms/index.php/library/icon-library
+
+Para converter em png com tamanhos específicos foi utilizado o gimp com o plugin gimp-plugin-registry que adiciona, dentre outros, o menu Filtros -> Batch -> Batch process
+
+Para criar o sql foi utilizado o script make_img_insert_sql.sh de autoria de t2y

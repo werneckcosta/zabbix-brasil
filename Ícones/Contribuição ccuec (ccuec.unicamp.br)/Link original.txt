@@ -1,0 +1,5 @@
+Versão1:
+https://github.com/CCUEC/zabbix-icons
+
+Versão2:
+https://github.com/CCUEC/zabbix-icons-v2

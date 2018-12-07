@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="151"
+   height="98"
+   id="svg4189"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="cloud_2_erro.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="D:\Cliparts\New\cloud.png"
+   inkscape:export-xdpi="76.224487"
+   inkscape:export-ydpi="76.224487">
+  <title
+     id="title4428">Cloud</title>
+  <defs
+     id="defs4191">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 49 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="151 : 49 : 1"
+       inkscape:persp3d-origin="75.5 : 32.666667 : 1"
+       id="perspective4636" />
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="306"
+       y1="-333"
+       x2="306"
+       y2="-373"
+       gradientTransform="matrix(1,0,0,-1,-285,-332)">
+      <stop
+         offset="0"
+         style="stop-color:#5DF24F"
+         id="stop7" />
+      <stop
+         offset="1"
+         style="stop-color:#2A9C06"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient2026"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.657176,0,0,0.657176,-16.96567,114.6286)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2555">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2557" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2559" />
+    </linearGradient>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.657176,0,0,0.657176,-16.96567,114.6286)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4091"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6769043"
+     inkscape:cx="9.2686244"
+     inkscape:cy="37.931219"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     width="151px"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-954.36218)">
+    <g
+       id="g4449">
+      <path
+         id="path2844"
+         d="m 104.7944,978.86598 c 0,13.52888 -13.79395,24.49622 -30.80965,24.49622 -17.01571,0 -30.80966,-10.96734 -30.80966,-24.49622 0,-13.52887 13.79395,-24.4962 30.80966,-24.4962 17.0157,0 30.80965,10.96733 30.80965,24.4962 z"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-3"
+         d="m 103.42412,979.70978 c 0,13.43025 -13.23431,24.31762 -29.55965,24.31762 -16.32535,0 -29.55966,-10.88737 -29.55966,-24.31762 0,-13.43026 13.23431,-24.31763 29.55966,-24.31763 16.32534,0 29.55965,10.88737 29.55965,24.31763 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-9"
+         d="m 106.05711,1009.9282 c 0,12.2736 -11.19345,22.2233 -25.00127,22.2233 -13.80783,0 -25.00128,-9.9497 -25.00128,-22.2233 0,-12.27363 11.19345,-22.22337 25.00128,-22.22337 13.80782,0 25.00127,9.94974 25.00127,22.22337 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-5"
+         d="m 125.75508,992.7556 c 0,12.2736 -11.19345,22.2234 -25.00127,22.2234 -13.80783,0 -25.00128,-9.9498 -25.00128,-22.2234 0,-12.27362 11.19345,-22.22336 25.00128,-22.22336 13.80782,0 25.00127,9.94974 25.00127,22.22336 z"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-11"
+         d="m 70.19668,999.82666 c 0,12.27364 -11.19345,22.22334 -25.00127,22.22334 -13.80783,0 -25.00128,-9.9497 -25.00128,-22.22334 0,-12.27362 11.19345,-22.22336 25.00128,-22.22336 13.80782,0 25.00127,9.94974 25.00127,22.22336 z"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-11-1"
+         d="m 72.61576,1000.9598 c 0,12.2736 -11.47328,22.2233 -25.62628,22.2233 -14.153,0 -25.62627,-9.9497 -25.62627,-22.2233 0,-12.27364 11.47327,-22.22338 25.62627,-22.22338 14.153,0 25.62628,9.94974 25.62628,22.22338 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-1"
+         d="m 40.3972,1019.2721 c 0,9.9026 -8.93215,17.9302 -19.95051,17.9302 -11.01837,0 -19.95051,-8.0276 -19.95051,-17.9302 0,-9.9026 8.93214,-17.9302 19.95051,-17.9302 11.01836,0 19.95051,8.0276 19.95051,17.9302 z"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-1-76"
+         d="m 40.95786,1019.699 c 0,9.3048 -8.77225,16.8479 -19.59337,16.8479 -10.82112,0 -19.59338,-7.5431 -19.59338,-16.8479 0,-9.3049 8.77226,-16.848 19.59338,-16.848 10.82112,0 19.59337,7.5431 19.59337,16.848 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-5-4"
+         d="m 126.18719,994.88834 c 0,12.86536 -11.39333,23.29476 -25.44771,23.29476 -14.05438,0 -25.44771,-10.4294 -25.44771,-23.29476 0,-12.86535 11.39333,-23.29478 25.44771,-23.29478 14.05438,0 25.44771,10.42943 25.44771,23.29478 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-2"
+         d="m 150.50382,1000.3317 c 0,12.2737 -11.19345,22.2234 -25.00127,22.2234 -13.80783,0 -25.00128,-9.9497 -25.00128,-22.2234 0,-12.27358 11.19345,-22.22332 25.00128,-22.22332 13.80782,0 25.00127,9.94974 25.00127,22.22332 z"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-2-2"
+         d="m 149.75861,1000.2455 c 0,11.5833 -11.2734,20.9733 -25.17984,20.9733 -13.90645,0 -25.17985,-9.39 -25.17985,-20.9733 0,-11.58327 11.2734,-20.97337 25.17985,-20.97337 13.90644,0 25.17984,9.3901 25.17984,20.97337 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-1-7"
+         d="m 41.91242,1033.6668 c 0,6.5552 -5.201,11.8693 -11.61676,11.8693 -6.41575,0 -11.61675,-5.3141 -11.61675,-11.8693 0,-6.5553 5.201,-11.8693 11.61675,-11.8693 6.41576,0 11.61676,5.314 11.61676,11.8693 z"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-1-7-2"
+         d="m 42.26694,1032.9241 c 0,6.4566 -5.12105,11.6907 -11.43818,11.6907 -6.31714,0 -11.43819,-5.2341 -11.43819,-11.6907 0,-6.4566 5.12105,-11.6908 11.43819,-11.6908 6.31713,0 11.43818,5.2342 11.43818,11.6908 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-4"
+         d="m 84.33882,1030.1312 c 0,12.2737 -11.19345,22.2234 -25.00127,22.2234 -13.80783,0 -25.00128,-9.9497 -25.00128,-22.2234 0,-12.2736 11.19345,-22.2233 25.00128,-22.2233 13.80782,0 25.00127,9.9497 25.00127,22.2233 z"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-4-2"
+         d="m 84.47542,1029.5542 c 0,12.0144 -10.93019,21.7539 -24.41325,21.7539 -13.48308,0 -24.41327,-9.7395 -24.41327,-21.7539 0,-12.0144 10.93019,-21.754 24.41327,-21.754 13.48306,0 24.41325,9.7396 24.41325,21.754 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-8"
+         d="m 139.39213,1020.0297 c 0,12.2736 -11.19345,22.2234 -25.00127,22.2234 -13.80783,0 -25.00128,-9.9498 -25.00128,-22.2234 0,-12.2736 11.19345,-22.22335 25.00128,-22.22335 13.80782,0 25.00127,9.94975 25.00127,22.22335 z"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-8-1"
+         d="m 138.06218,1019.7544 c 0,11.8052 -11.21344,21.3752 -25.04592,21.3752 -13.83248,0 -25.04591,-9.57 -25.04591,-21.3752 0,-11.8051 11.21343,-21.37511 25.04591,-21.37511 13.83248,0 25.04592,9.57001 25.04592,21.37511 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-1-7-6"
+         d="m 90.95831,1047.975 c -7.9716,1.3183 -15.50224,-3.8048 -16.82016,-11.4427 -1.31791,-7.638 4.07596,-14.8984 12.04756,-16.2166 7.9716,-1.3183 15.50224,3.8048 16.82016,11.4428 1.31792,7.6379 -4.07596,14.8983 -12.04756,16.2165 z"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         id="path2844-1-7-6-5"
+         d="m 91.26841,1046.5778 c -7.83783,1.3182 -15.2421,-3.8049 -16.5379,-11.4428 -1.2958,-7.6379 4.00756,-14.8984 11.84539,-16.2166 7.83783,-1.3183 15.24211,3.8048 16.53791,11.4428 1.29579,7.6379 -4.00757,14.8983 -11.8454,16.2166 z"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       id="g3074"
+       transform="matrix(3.8569377,0,0,3.8569377,92.949463,992.09668)">
+      <path
+         id="path3076"
+         d="m 2.9763779,3.0826771 8.3267711,8.6811019 m 1.877953,-4.3228342 c 0,3.4724412 -2.692913,6.3070862 -6.0236218,6.3070862 -3.3661417,0 -6.059055,-2.834645 -6.059055,-6.3070862 0,-3.507874 2.6929133,-6.3070865 6.059055,-6.3070865 3.3307088,0 6.0236218,2.7992125 6.0236218,6.3070865 z"
+         style="fill:#fffffb;fill-opacity:1;fill-rule:nonzero;stroke:#eb2323;stroke-width:2.16141725px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Cloud</dc:title>
+        <dc:date>2009-11-12T15:14:40</dc:date>
+        <dc:description />
+        <dc:source>http://openclipart.org/detail/28302/cloud-by-jean_victor_balin-28302</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>jean_victor_balin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>cloud</rdf:li>
+            <rdf:li>cloud</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>meteo</rdf:li>
+            <rdf:li>meteo</rdf:li>
+            <rdf:li>nature</rdf:li>
+            <rdf:li>nature</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>sky</rdf:li>
+            <rdf:li>sky</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

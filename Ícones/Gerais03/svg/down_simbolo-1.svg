@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="agree-disagree.svg" inkscape:version="0.48.0 r9654" version="1.1" id="svg2" height="15" width="15" inkscape:export-filename="/home/steren/WIP/Beansight/Design/icons/agree-disagree/disagree.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
+  <defs id="defs4">
+    <filter id="filter3825" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix3827" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter3833" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix3835" type="saturate" values="0"/>
+    </filter>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="31.678384" inkscape:cx="1.4406522" inkscape:cy="7.2010379" inkscape:document-units="px" inkscape:current-layer="layer2" showgrid="true" inkscape:window-width="1920" inkscape:window-height="1175" inkscape:window-x="1600" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:snap-bbox="true" inkscape:snap-nodes="false">
+    <inkscape:grid type="xygrid" id="grid3015" empspacing="5" visible="true" enabled="true" snapvisiblegridlinesonly="true"/>
+  </sodipodi:namedview>
+  <g inkscape:groupmode="layer" id="layer5" inkscape:label="down-inactive" style="display:none">
+    <use height="15" width="15" id="use3768" xlink:href="#path3019" y="0" x="0" style="display:inline;filter:url(#filter3825)" transform="matrix(1,0,0,-1,0,1052.3622)"/>
+  </g>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="down" style="display:inline">
+    <path sodipodi:nodetypes="cccccccccccc" inkscape:connector-curvature="0" id="path2989" d="m 3.5,9.5 2,0 3,5 1,0 0,-4 4,0 0,-6 -1,-1 -5,0 -1,1 -3,0 z" style="fill:#ffb498;fill-opacity:1;stroke:#a54f29;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  </g>
+  <g inkscape:groupmode="layer" id="layer4" inkscape:label="up-inactive" style="display:none">
+    <use transform="translate(0,-1037.3622)" style="display:inline;filter:url(#filter3825)" x="0" y="0" xlink:href="#path3019" id="use3822" width="15" height="15"/>
+  </g>
+  <g inkscape:label="up" inkscape:groupmode="layer" id="layer1" transform="translate(0,-1037.3622)" style="display:none">
+    <path style="fill:#e0ff73;fill-opacity:1;stroke:#778830;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 3.5,1042.8622 2,0 3,-5 1,0 0,4 4,0 0,6 -1,1 -5,0 -1,-1 -3,0 z" id="path3019" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccc"/>
+  </g>
+  <g inkscape:groupmode="layer" id="layer6" inkscape:label="arm-inactive" style="display:inline">
+    <use style="display:inline;filter:url(#filter3833)" x="0" y="0" xlink:href="#path3017" id="use3830" width="15" height="15"/>
+  </g>
+  <g inkscape:groupmode="layer" id="layer3" inkscape:label="arm" style="display:inline">
+    <path style="fill:#d6e6d3;fill-opacity:1;stroke:#6e836a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 0.5,4.5000014 3,0 0,7.0000006 -3,0 z" id="path3017" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Thumb down Dislike</dc:title>
+        <dc:date>2010-10-21T20:58:49</dc:date>
+        <dc:description>a small icon of a thumb down</dc:description>
+        <dc:source>http://openclipart.org/detail/91759/thumb-down-dislike-by-steren</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Steren</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>disagree</rdf:li>
+            <rdf:li>dislike</rdf:li>
+            <rdf:li>down</rdf:li>
+            <rdf:li>hand</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>mini</rdf:li>
+            <rdf:li>thumb</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
