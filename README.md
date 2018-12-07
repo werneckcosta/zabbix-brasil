@@ -9,4 +9,4 @@ Se você chegou aqui, soube da lista de ícones para uso com o Zabbix. Esta list
  
 Abraço!
 
-Werneck Costa
+[Werneck Costa](werneck.costa@gmail.com)
